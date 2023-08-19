@@ -26,4 +26,4 @@ Base_Folder/
   </tr>
  </table>
  
-_These models are developed and trained by the lead of this project. you can contact him [here](mailto:mrkocoglu@yahoo.com) for any information. [Yildirim](mailto:mrkocoglu@yahoo.com)_
+_These models are developed and trained by the lead of this project. you can contact him [here](mailto:mrkocoglu@yahoo.com) for any information.
