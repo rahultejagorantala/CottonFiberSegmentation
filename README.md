@@ -15,8 +15,8 @@ Base_Folder/
 ├─ test/
 ├─ model_Faster_RCNN/
 ```
-
-<tr>
+<table>
+  <tr>
     <td align="center">Fiber Image</td>
     <td align="center">Fiber Segmentation</td>
   </tr>
