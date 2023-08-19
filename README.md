@@ -6,6 +6,9 @@ Pretrained models can be downloaded using this link - [link](https://texastechun
 
 Folder Structure required for this to work
 
+<img width="123" alt="image" src="https://github.com/rahultejagorantala/CottonFiberSegmentation/assets/101026703/0bd5d003-3bc4-4a40-9884-680139ebd8c1">
+
+
 Base_Folder/
 ├─ input_images/
 ├─ input_padded_images/
