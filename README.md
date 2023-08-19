@@ -17,8 +17,8 @@ Base_Folder/
 ```
 
 <tr>
-    <td align="Fiber Image">Cirlce</td>
-    <td align="Fiber Segmentation">Rectangle</td>
+    <td align="center">Fiber Image</td>
+    <td align="center">Fiber Segmentation</td>
   </tr>
   <tr> 
     <td align="center"><img src="https://github.com/rahultejagorantala/CottonFiberSegmentation/blob/main/Images/030322DAEFA1-4R1_fr30-original.png" width=200 height=200 ></td>
