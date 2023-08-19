@@ -21,8 +21,8 @@ Base_Folder/
     <td align="center">Fiber Segmentation</td>
   </tr>
   <tr> 
-    <td align="center"><img src="https://github.com/rahultejagorantala/CottonFiberSegmentation/blob/main/Images/030322DAEFA1-4R1_fr30-original.png" width=200 height=200 ></td>
-    <td align="center"><img src="https://github.com/rahultejagorantala/CottonFiberSegmentation/blob/main/Images/030322DAEFA1-4R1_fr30.png" width=200 height=200 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/CottonFiberSegmentation/blob/main/Images/030322DAEFA1-4R1_fr30-original.png" width=150 height=150 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/CottonFiberSegmentation/blob/main/Images/030322DAEFA1-4R1_fr30.png" width=150 height=150 ></td>
   </tr>
  </table>
 These models are developed and trained by the lead of this project. you can contact him here for any information. [Yildirim Kocoglu](mailto:mrkocoglu@yahoo.com)
