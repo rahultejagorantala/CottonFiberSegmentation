@@ -1,5 +1,7 @@
 # CottonFiberSegmentation
-This repo contains code modules for Fiber Detection and Segmentation
+This repo contains code modules for Fiber Detection and Segmentation.
+
+
 Pretrained models can be downloaded using this link - [link](https://texastechuniversity-my.sharepoint.com/:f:/g/personal/rgoranta_ttu_edu/Eom5xxJvrzFMmT0lXWCnRwMBYvJLvSLD1oiH418Y3zz1Ew?e=aJSpu2)
 
 
