@@ -25,5 +25,3 @@ Base_Folder/
     <td align="center"><img src="https://github.com/rahultejagorantala/CottonFiberSegmentation/blob/main/Images/030322DAEFA1-4R1_fr30.png" width=150 height=150 ></td>
   </tr>
  </table>
- 
-_These models are developed and trained by the lead of this project. you can contact him [here](mailto:mrkocoglu@yahoo.com) for any information.
